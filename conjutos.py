@@ -4,6 +4,7 @@ numeros = {1, 2, 3, 4, 5}
 
 # Agregar un elemento
 numeros.add(6)
+numeros.add(7)
 
 # Intentar agregar un duplicado (no tendrá efecto)
 numeros.add(3)
