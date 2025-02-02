@@ -4,6 +4,7 @@ frutas = ["manzana", "banana", "cereza"]
 
 # Agregar un elemento
 frutas.append("naranja")
+frutas.append("pera")
 
 # Acceder a un elemento
 print(frutas[1])  # Output: banana
