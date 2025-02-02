@@ -4,6 +4,7 @@ colores = ("rojo", "verde", "azul")
 
 # Acceder a un elemento
 print(colores[0])  # Output: rojo
+print(colores[1]) # Output: verde
 
 # No se pueden modificar elementos, pero sí reasignar la variable
 colores = ("amarillo", "negro", "blanco")
